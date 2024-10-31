@@ -3,7 +3,7 @@
 ### Run this command in your terminal to Setup an AVS Operator for Chainbase : 
 
 ```
-wget wget https://raw.githubusercontent.com/CryptoAirdropHindi/chainbase-setup.sh/refs/heads/main/chainbase-setup.sh && chmod +x chainbase-setup.sh && ./chainbase-setup.sh
+wget https://raw.githubusercontent.com/CryptoAirdropHindi/Chainbase-Node/refs/heads/main/chainbase-setup.sh && chmod +x chainbase-setup.sh && ./chainbase-setup.sh
 ```
 
 ## Config & register operator

@@ -10,7 +10,7 @@ NC='\033[0m' # No Color
 # Display logo
 echo -e "${BLUE}"
 cat << "EOF"
-                                                              
+                                                      
 EOF
 
 sleep 3
